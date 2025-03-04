@@ -1,4 +1,4 @@
-import { MenuOutlined, SearchRounded } from "@mui/icons-material";
+import { MenuOutlined } from "@mui/icons-material";
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
